@@ -2,9 +2,9 @@
 
 ## Live demo
 
-[Demo, soon](https://github.com/Reittu/)
+[Demo](https://50eob.csb.app/)
 
-[Editor, soon](https://github.com/Reittu/)
+[Editor](https://codesandbox.io/s/react-drum-machine-50eob?fontsize=14&hidenavigation=1&theme=dark)
 
 ## Run locally
 
