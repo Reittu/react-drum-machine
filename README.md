@@ -2,7 +2,7 @@
 
 ## Live demo
 
-[Demo](https://50eob.csb.app/)
+[Demo](https://50eob.codesandbox.io/)
 
 [Editor](https://codesandbox.io/s/react-drum-machine-50eob?fontsize=14&hidenavigation=1&theme=dark)
 
